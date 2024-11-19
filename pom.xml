@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.gamutgurus</groupId>
-	<artifactId>gamutkart</artifactId>
+	<artifactId>Project1</artifactId>
 	<packaging>war</packaging>
 	<version>1.1-SNAPSHOT</version>
 
@@ -30,7 +30,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>gamutkart</finalName>
+		<finalName>Project1</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
